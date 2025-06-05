@@ -56,7 +56,8 @@ mpl.rcParams['animation.embed_limit'] = 50  # increase MB limit if needed
 
 ## 🌟 Output Preview
 
-![3D SVM Decision Surface Example](preview.png) *(Add your screenshot or a frame if available)*
+![preview](https://github.com/user-attachments/assets/62c52370-d683-465e-94ca-29d3b345cfa1)
+
 
 ---
 
